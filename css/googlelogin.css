@@ -1,0 +1,45 @@
+
+body{
+	background-color: #76b865; 
+}
+.container-fluid{
+	background-color: white;
+	width:500px;
+	height:400px;
+	margin: auto;
+	align:center;
+	padding-bottom: 20px;
+	margin-top: 90px;
+
+}
+.user{
+	margin: 50px;
+	margin-left: 30px;
+	margin-right: 40px;
+	height: 40px;
+	width: 400px;
+
+}
+.pass{
+	margin: 9px;
+	height: 40px;
+	width: 400px;
+	margin-left: 30px;
+	margin-right: 40px;
+}
+button{
+	margin: 35px;
+	margin-left: 30px;
+	height: 40px;
+	width: 400px;
+	margin-right: 40px;
+	background-color: #76b865;
+	color:white;
+
+}
+p{
+	margin-left: 30px;
+}
+a{
+	color:limeGreen;
+}
